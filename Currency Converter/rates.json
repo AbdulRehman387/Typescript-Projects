@@ -1,0 +1,22 @@
+{
+    "ratesWrtPkr":{
+        "usdt": 0.0036,
+        "euro": 0.0033,
+        "inr": 0.30
+    },
+    "ratesWrtUsdt": {
+        "pkr": 279.65,
+        "euro": 0.93,
+        "inr": 83.00
+    },
+    "ratesWrtEuro": {
+        "pkr": 300.67,
+        "usdt": 1.08,
+        "inr": 89.31
+    },
+    "ratesWrtInr": {
+        "pkr": 3.37,
+        "usdt": 0.012,
+        "euro": 0.011
+    }
+}
