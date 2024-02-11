@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Umer",
+    "accNum": 1,
+    "pin": 11,
+    "balance": 8500
+  },
+  {
+    "name": "Saim",
+    "accNum": 2,
+    "pin": 12,
+    "balance": 11500
+  },
+  {
+    "name": "Ahmad",
+    "accNum": 3,
+    "pin": 13,
+    "balance": 10000
+  }
+]
