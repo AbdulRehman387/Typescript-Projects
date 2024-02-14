@@ -1,0 +1,37 @@
+[
+  {
+    "cnic": 1,
+    "name": "Muhammad Afzal",
+    "isVoteCasted": true
+  },
+  {
+    "cnic": 2,
+    "name": "Muhammad Ajlan",
+    "isVoteCasted": false
+  },
+  {
+    "cnic": 3,
+    "name": "Muhammad Abdullah",
+    "isVoteCasted": true
+  },
+  {
+    "cnic": 4,
+    "name": "Muhammad Asghar",
+    "isVoteCasted": false
+  },
+  {
+    "cnic": 5,
+    "name": "Muhammad Ali Asghar",
+    "isVoteCasted": false
+  },
+  {
+    "cnic": 6,
+    "name": "Muhammad Anwar",
+    "isVoteCasted": false
+  },
+  {
+    "cnic": 7,
+    "name": "Muhammad Salman",
+    "isVoteCasted": false
+  }
+]
